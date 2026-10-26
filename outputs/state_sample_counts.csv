@@ -1,0 +1,40 @@
+State Name,N_h (units in frame),n_h (selected),required,distinct selected,took all units
+Alabama,7,5,5,5,False
+Arizona,9,5,5,5,False
+Arkansas,7,5,5,5,False
+Colorado,11,5,5,5,False
+Delaware,1,1,1,1,True
+Florida,10,5,5,5,False
+Georgia,9,5,5,5,False
+Illinois,24,5,5,5,False
+Indiana,32,5,5,5,False
+Iowa,11,5,5,5,False
+Kansas,9,5,5,5,False
+Kentucky,30,5,5,5,False
+Louisiana,4,4,4,4,True
+Maryland,6,5,5,5,False
+Michigan,17,5,5,5,False
+Minnesota,6,5,5,5,False
+Mississippi,4,4,4,4,True
+Missouri,21,5,5,5,False
+Montana,3,3,3,3,True
+Nebraska,12,5,5,5,False
+Nevada,3,3,3,3,True
+New Hampshire,2,2,2,2,True
+New Jersey,3,3,3,3,True
+New Mexico,4,4,4,4,True
+North Carolina,18,5,5,5,False
+North Dakota,11,5,5,5,False
+Ohio,17,5,5,5,False
+Oklahoma,10,5,5,5,False
+Pennsylvania,25,5,5,5,False
+South Carolina,11,5,5,5,False
+South Dakota,1,1,1,1,True
+Tennessee,16,5,5,5,False
+Texas,29,5,5,5,False
+Utah,8,5,5,5,False
+Virginia,6,5,5,5,False
+Washington,1,1,1,1,True
+West Virginia,19,5,5,5,False
+Wisconsin,12,5,5,5,False
+Wyoming,19,5,5,5,False
